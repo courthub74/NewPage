@@ -1,0 +1,1 @@
+var sentence = "Welcome to GittyHub"
